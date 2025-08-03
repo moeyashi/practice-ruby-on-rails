@@ -2,6 +2,20 @@
 
 ## devcontainer
 
+### test
+
+```bash
+# rails test
+rails t
+```
+
+### dev server
+
+```bash
+# rails server
+rails s
+```
+
 ### gnupg
 
 Gitの署名にgnupgを使う場合の設定
